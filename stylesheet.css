@@ -33,7 +33,7 @@ h6 {
 	font-size: 10.2px;
 }
 a {
-	color: #23a1d1;
+	color: #ff7200;
 }
 a:hover {
 	text-decoration: none;
@@ -46,7 +46,13 @@ label {
 	font-size: 12px;
 	font-weight: normal;
 }
-select.form-control, textarea.form-control, input[type="text"].form-control, input[type="password"].form-control, input[type="datetime"].form-control, input[type="datetime-local"].form-control, input[type="date"].form-control, input[type="month"].form-control, input[type="time"].form-control, input[type="week"].form-control, input[type="number"].form-control, input[type="email"].form-control, input[type="url"].form-control, input[type="search"].form-control, input[type="tel"].form-control, input[type="color"].form-control {
+select.form-control, textarea.form-control, input[type="text"].form-control, input[type="password"].form-control, input[type="datetime"].form-control, input
+
+[type="datetime-local"].form-control, input[type="date"].form-control, input[type="month"].form-control, input[type="time"].form-control, input[type="week"].form-
+
+control, input[type="number"].form-control, input[type="email"].form-control, input[type="url"].form-control, input[type="search"].form-control, input[type="tel"].form-
+
+control, input[type="color"].form-control {
 	font-size: 12px;
 }
 .input-group input, .input-group select, .input-group .dropdown-menu, .input-group .popover {
@@ -74,7 +80,7 @@ div.required .control-label:before {
 	text-decoration: none;
 	color: #ffffff;
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #ff7200, #1f90bb);
 	background-repeat: repeat-x;
 }
 /* top */
@@ -97,7 +103,7 @@ div.required .control-label:before {
 	text-shadow: none;
 	color: #ffffff;
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #ff7200, #1f90bb);
 	background-repeat: repeat-x;
 }
 #top .btn-link, #top-links li, #top-links a {
@@ -193,7 +199,7 @@ div.required .control-label:before {
 /* menu */
 #menu {
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #ff7200, #1f90bb);
 	background-repeat: repeat-x;
 	border-color: #1f90bb #1f90bb #145e7a;
 	min-height: 40px;
@@ -243,7 +249,7 @@ div.required .control-label:before {
 	text-decoration: none;
 	color: #ffffff;
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #ff7200, #1f90bb);
 	background-repeat: repeat-x;
 }
 #menu #category {
@@ -262,7 +268,7 @@ div.required .control-label:before {
 	padding: 2px 18px;
 	float: right;
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #ff7200, #1f90bb);
 	background-repeat: repeat-x;
 	border-color: #1f90bb #1f90bb #145e7a;
 }
@@ -419,7 +425,7 @@ footer h5 {
 	color: #ffffff;
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #ff7200, #1f90bb);
 	background-repeat: repeat-x;
 	border-color: #1f90bb #1f90bb #145e7a;
 }
@@ -475,7 +481,7 @@ footer h5 {
 .btn-link {
 	border-color: rgba(0, 0, 0, 0);
 	cursor: pointer;
-	color: #23A1D1;
+	color: #ff7200;
 	border-radius: 0;
 }
 .btn-link, .btn-link:active, .btn-link[disabled] {
